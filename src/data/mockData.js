@@ -1,11 +1,11 @@
 // Mock data para Asador de Pollos Víctor
 
-import imagenPolloEntero from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/chicken-1807883_640_520x500.jpg'
-import imagenAlbondigas from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/descarga.jpg'
-import imagenCroquetas from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/croquetas-de-pollo-2fp.jpg'
-import imagenCostillar from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/costillas-de-cerdo-al-horno.jpg'
-import imagenEmpanadas from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/como-hacer-empanadas-argentinas-paulina-cocina-recetas-800x450.jpg'
-import imagenTortilla from 'C:/Users/Usuario/Desktop/Webs/asador/src/assets/tortilla-de-patatas-con-cebolla.jpg'
+import imagenPolloEntero from '../assets/chicken-1807883_640_520x500.jpg'
+import imagenAlbondigas from '../assets/descarga.jpg'
+import imagenCroquetas from '../assets/croquetas-de-pollo-2fp.jpg'
+import imagenCostillar from '../assets/costillas-de-cerdo-al-horno.jpg'
+import imagenEmpanadas from '../assets/como-hacer-empanadas-argentinas-paulina-cocina-recetas-800x450.jpg'
+import imagenTortilla from '../assets/tortilla-de-patatas-con-cebolla.jpg'
 
 
 
