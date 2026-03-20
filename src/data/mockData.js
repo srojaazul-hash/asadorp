@@ -10,7 +10,7 @@ import imagenTortilla from '../assets/tortilla-de-patatas-con-cebolla.jpg'
 
 
 export const restaurantInfo = {
-  name: "Asador de Pollos Manuel",
+  name: "Asador de Pollos Alberto",
   phone: "Número telefono", // Teléfono fijo del local
   whatsapp: "34693788384", // PON AQUÍ TU MÓVIL (Con el 34 delante si es España, sin el +)
   bizumNumber: "693788384", // El número que verá el cliente para hacer el Bizum
