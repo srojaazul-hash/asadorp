@@ -44,15 +44,6 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
             <Button 
-              onClick={handleCallClick}
-              size="lg"
-              className="cta-primary group"
-            >
-              <Phone className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" />
-              
-              Haz tu pedido y paga por: {restaurantInfo.phone}
-            </Button>
-            <Button 
               onClick={() => document.getElementById('productos')?.scrollIntoView({ behavior: 'smooth' })}
               size="lg"
               variant="outline"
