@@ -1,15 +1,12 @@
 import React from 'react';
-import { Clock, Star, DollarSign, Heart, Users, Flame } from 'lucide-react';
+import { Clock, DollarSign, Heart,} from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { benefits } from '../data/mockData';
 
 const iconMap = {
   Clock: Clock,
-  Star: Star,
   DollarSign: DollarSign,
   Heart: Heart,
-  Users: Users,
-  Flame:Flame
 };
 
 const Benefits = () => {

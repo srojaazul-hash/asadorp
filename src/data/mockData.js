@@ -85,12 +85,6 @@ export const benefits = [
     icon: "Clock"
   },
   {
-    id: 2,
-    title: "Sabor Probado",
-    description: "Clientes fieles desde hace años avalan nuestras recetas.",
-    icon: "Star"
-  },
-  {
     id: 3,
     title: "Precio Imbatible",
     description: "Comer bien no tiene que ser caro. Entre 1€ y 10€ por persona.",
@@ -102,18 +96,6 @@ export const benefits = [
     description: "Recetas tradicionales, sin complicaciones.",
     icon: "Heart"
   },
-  {
-    id: 5,
-    title: "Ideal para Familias",
-    description: "Con menos de lo que cuesta cocinar, tienes todo listo.",
-    icon: "Users"
-  },
-  {
-    id: 6,
-    title: "Asado en su Punto",
-    description: "Nuestros hornos garantizan ese dorado y crujiente perfecto en cada pollo.",
-    icon: "Flame"
-  }
 ];
 
 export const testimonials = [
