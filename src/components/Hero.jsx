@@ -10,7 +10,7 @@ const Hero = () => {
 
   return (
     // ESTA ES LA CLAVE: 'h-screen' obliga a la foto a ocupar toda la pantalla
-    <section className="relative h-screen flex items-center justify-center overflow-hidden w-full">
+   <section className="relative min-h-[100dvh] py-20 flex items-center justify-center overflow-hidden w-full">
       {/* Background Image - Se estira hasta cubrir el 'h-screen' del padre */}
       <div className="absolute inset-0 z-0">
         <img
