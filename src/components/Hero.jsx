@@ -42,7 +42,7 @@ const Hero = () => {
             </p>
           </div>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-1">
             <Button 
               onClick={() => document.getElementById('productos')?.scrollIntoView({ behavior: 'smooth' })}
               size="lg"
