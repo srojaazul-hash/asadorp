@@ -10,14 +10,14 @@ import imagenTortilla from '../assets/tortilla-de-patatas-con-cebolla.jpg'
 
 
 export const restaurantInfo = {
-  name: "Asador de Pollos Alberto",
+  name: "Asador de Pollos Víctor",
   phone: "Número telefono", // Teléfono fijo del local
   whatsapp: "34693788384", // PON AQUÍ TU MÓVIL (Con el 34 delante si es España, sin el +)
   bizumNumber: "693788384", // El número que verá el cliente para hacer el Bizum
   address: "Alcalá de Henares, Madrid",
   email: "info@asadorvictor.com",
   yearsInBusiness: 35,
-  googleMapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1517.1514049759257!2d-3.3656923460258334!3d40.49068654179941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42496ec88aebbb%3A0x77dd4d335502d12f!2sRotonda%20de%20Alovera%2C%2028806%20Alcal%C3%A1%20de%20Henares%2C%20Madrid!5e0!3m2!1ses!2ses!4v1774035996090!5m2!1ses!2ses" 
+  googleMapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d758.6280798357869!2d-3.3659727999999998!3d40.486052799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42496cf01f7f13%3A0xc02cdb40c66ed27!2sAsador%20De%20Pollos%20Victor!5e0!3m2!1ses!2ses!4v1774034305401!5m2!1ses!2ses" 
 };
 
 export const scheduleInfo = {
