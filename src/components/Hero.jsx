@@ -61,21 +61,6 @@ const Hero = () => {
               Ver Nuestros Productos
             </Button>
           </div>
-
-          <div className="pt-8 flex flex-wrap justify-center gap-8 text-sm">
-            <div className="flex items-center gap-2">
-              <span className="text-amber-400 text-2xl">⚡</span>
-              <span>Listo en minutos</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-amber-400 text-2xl">💰</span>
-              <span>1€ - 10€ por persona</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-amber-400 text-2xl">🏆</span>
-              <span>Recetas probadas 35 años</span>
-            </div>
-          </div>
         </div>
       </div>
     </section>
