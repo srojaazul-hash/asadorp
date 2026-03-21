@@ -17,7 +17,7 @@ const Hero = () => {
           alt="Pollo asado dorado"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/50"></div>
+        <div className="absolute inset-0 to-[#fdfdfd]"></div>
       </div>
 
       {/* Content */}
@@ -36,7 +36,7 @@ const Hero = () => {
           </div>
 
           <div className="space-y-4">
-            <p className="text-xl md:text-2xl leading-relaxed max-w-3xl mx-auto font-light">
+            <p className="text-xl md:text-2xl leading-relaxed max-w-3xl mx-auto font-light text-amber-400">
               Más de <span className="font-bold text-amber-400">{restaurantInfo.yearsInBusiness} años</span> haciendo lo mismo… pero mejor que nadie: 
               <span className="font-semibold"> comida casera lista para llevar</span>, sin esperas y sin complicaciones.
             </p>
