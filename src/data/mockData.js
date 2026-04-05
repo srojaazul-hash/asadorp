@@ -10,19 +10,19 @@ import imagenTortilla from '../assets/tortilla-de-patatas-con-cebolla.jpg'
 
 
 export const restaurantInfo = {
-  name: "Asador de Pollos Víctor",
+  name: "Asador de Pollos",
   phone: "Número telefono", // Teléfono fijo del local
   whatsapp: "34693788384", // PON AQUÍ TU MÓVIL (Con el 34 delante si es España, sin el +)
   bizumNumber: "693788384", // El número que verá el cliente para hacer el Bizum
-  address: "C/ Talamanca 10. Alcalá de Henares, Madrid",
-  email: "info@asadorvictor.com",
-  yearsInBusiness: 35,
-  googleMapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d758.6280798357869!2d-3.3659727999999998!3d40.486052799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42496cf01f7f13%3A0xc02cdb40c66ed27!2sAsador%20De%20Pollos%20Victor!5e0!3m2!1ses!2ses!4v1774034305401!5m2!1ses!2ses" 
+  address: "C/ Travesia. Tu ciudad, Tu país",
+  email: "rubendominguezsoria285@gmail.com",
+  yearsInBusiness: 20,
+  googleMapsUrl: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d189.64377181469467!2d-3.3645095897029598!3d40.490740967552114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1775146748934!5m2!1ses!2ses"
 };
 
 export const scheduleInfo = {
-  weekdays: "Lunes a Viernes: 10:00 - 14:30 / 17:00 - 21:00",
-  weekends: "Sábados y Domingos: 10:00 - 15:00 / 17:00 - 21:30",
+  weekdays: "Lunes a Viernes: 10:30 - 14:30 / 17:00 - 20:00",
+  weekends: "Sábados y Domingos: 11:00 - 15:00 / 17:00 - 20:30",
   holidays: "Consultar horario especial en festivos"
 };
 
@@ -31,7 +31,7 @@ export const products = [
     id: 1,
     name: "Pollo Asado Entero",
     description: "Nuestro producto estrella. Receta propia con más de 35 años de tradición.",
-    price: "7.5€",
+    price: "8.5€",
     image: imagenPolloEntero,
     featured: true
   },
@@ -39,7 +39,7 @@ export const products = [
     id: 2,
     name: "Albondigas",
     description: "Perfecto para 1-2 personas. Jugoso y dorado al punto.",
-    price: "2.9€",
+    price: "4.9€",
     image: imagenAlbondigas,
     featured: false
   },
