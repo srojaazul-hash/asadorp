@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="space-y-4">
             <h3 className="text-2xl font-bold text-amber-400">
-               Asador de Pollos Víctor
+               Asador de Pollos
             </h3>
             <p className="text-gray-300 leading-relaxed">
               Más de {restaurantInfo.yearsInBusiness} años sirviendo el mejor pollo asado de Alcalá de Henares. 
@@ -58,7 +58,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
             <p>
-              © {currentYear} Asador de Pollos Víctor. Todos los derechos reservados.
+              © {currentYear} Asador de Pollos. Todos los derechos reservados.
             </p>
             <p className="flex items-center gap-2">
               Hecho con <span className="text-red-500">❤️</span> en Alcalá de Henares
